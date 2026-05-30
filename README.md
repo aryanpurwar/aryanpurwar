@@ -107,4 +107,4 @@
 ---
 
 
-<p align="center">⭐ If you like my projects, give them a star! It means a lot 🙏</p>
+<p align="center">⭐ If you like my projects, give them a star! It means a lot.</p>
