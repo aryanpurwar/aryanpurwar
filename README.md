@@ -30,7 +30,7 @@
 ## ⚔️ DSA & Competitive Programming
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/apurwar362?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
 </p>
 
 | Platform | Problems Solved | Streak |
@@ -93,7 +93,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/aryanpurwar/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/apurwar362/" target="_blank">
