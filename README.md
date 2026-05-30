@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 Final Year **B.Tech CSE** Student from **Kanpur, India**
+- 🎓 Final Year **B.Tech CE** Student from **NMIMS, Shirpur**
 - 🛡️ Building **CyberShield** — A Cybersecurity Awareness Platform (Capstone Project)
 - 📚 Currently mastering **MERN Stack** 
 - 🧠 Solved **450+ DSA problems** on LeetCode
