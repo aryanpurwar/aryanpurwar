@@ -1,26 +1,110 @@
-# Hi, I'm Aryan 👋
+<h1 align="center">Hey there, I'm Aryan Purwar 👋</h1>
 
-🎓 Final Year CE Student | MERN Stack Developer | Cybersecurity Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Final+Year+CS+Student;MERN+Stack+Developer;450%2B+DSA+Problems+Solved;Cybersecurity+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
-🔭 Currently building → **CyberShield** (Cybersecurity Awareness Platform)
-🌱 Currently exploring → MERN Stack 
-💬 Ask me about → React, Node.js, MongoDB, Express
-📫 Reach me → apurwar362@gmail.com
+---
+
+## 🙋‍♂️ About Me
+
+- 🎓 Final Year **B.Tech CSE** Student from **Kanpur, India**
+- 🛡️ Building **CyberShield** — A Cybersecurity Awareness Platform (Capstone Project)
+- 📚 Currently mastering **MERN Stack** 
+- 🧠 Solved **450+ DSA problems** on LeetCode
+- ⚔️ Actively participating in **LeetCode Weekly Contests**
+- 💡 I love turning ideas into full-stack applications
+- 📫 Reach me at **apurwar362@gmail.com**
+
+---
+
+## 🚀 Currently Working On
+
+```
+🛡️  CyberShield       → MERN Stack Cybersecurity Platform (Capstone)
+⚔️  LeetCode Contests  → Weekly contests to sharpen problem solving
+```
+
+---
+
+## ⚔️ DSA & Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest" alt="LeetCode Stats"/>
+</p>
+
+| Platform | Problems Solved | Streak |
+|----------|----------------|--------|
+| 💛 LeetCode | 450+ | Weekly Contests |
+
+- ✅ **450+ problems** solved across Easy / Medium / Hard
+- 🏆 Participating in **LeetCode Weekly & Biweekly Contests**
+- 📌 Strong in — Arrays, Strings, Trees, DP, Graphs, Sliding Window
 
 ---
 
 ## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Database**
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Featured Project
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+### 🛡️ CyberShield
+> A full-stack cybersecurity awareness training platform
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+- 🎣 **Phishing Simulator** — Trains users to spot phishing emails
+- 🧠 **Quiz Arena** — Cybersecurity knowledge quiz with scoring
+- 📊 **Dashboard** — Tracks user progress and performance
+- 🔐 **JWT Auth** — Secure role-based access (Admin / User)
+- ⚙️ **Tech** — MongoDB, Express, React, Node.js
+
+[![CyberShield Repo](https://img.shields.io/badge/View%20Project-CyberShield-00F7FF?style=for-the-badge&logo=github)]
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/apurwar362/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:apurwar362@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+
+<p align="center">⭐ If you like my projects, give them a star! It means a lot 🙏</p>
